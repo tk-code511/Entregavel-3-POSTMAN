@@ -63,6 +63,12 @@ JSON:
     "b": 5
 }
 ```
+Resposta:
+
+```text
+O resultado da subtração de 10 e 5 é 5
+```
+
 
 ### Multiplicação
 
@@ -81,6 +87,13 @@ JSON:
 }
 ```
 
+Resposta:
+
+```text
+O resultado da multiplicação de 10 e 5 é 50
+```
+
+
 ### Divisão
 
 **POST**
@@ -97,6 +110,13 @@ JSON:
     "b": 5
 }
 ```
+
+Resposta:
+
+```text
+O resultado da divisão de 10 e 5 é 2
+```
+
 
 ## Testando no Postman
 
